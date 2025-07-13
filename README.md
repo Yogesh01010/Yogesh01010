@@ -16,7 +16,7 @@
 - 🎨 Passionate about **Animations (Framer Motion, GSAP, Lottie)** and **Pixel-Perfect UI**.
 - 💬 Always happy to talk about **React Native, MERN, Firebase, UI/UX, Animations, Backend APIs**.
 - 📫 Reach me at: **yogeshsharm26879@gmail.com**
-- 🌐 [LinkedIn](https://linkedin.com/in/yogesh-sharma-dev)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/yogeshsharma1010/)
 
 ---
 
