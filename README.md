@@ -12,9 +12,7 @@
 ---
 
 ## 💡 About Me
-- 🔭 Currently building: **React Native Apps**, **MERN Stack Platforms**, and **Firebase Integrations**.
-- 🎨 Passionate about **Animations (Framer Motion, GSAP, Lottie)** and **Pixel-Perfect UI**.
-- 💬 Always happy to talk about **React Native, MERN, Firebase, UI/UX, Animations, Backend APIs**.
+I’m Yogesh Sharma, a passionate full-stack developer with a strong foundation in building responsive, user-friendly web applications. Skilled in JavaScript, React, Node.js Express and react-native. I love translating design mockups into clean, maintainable code. Always learning, always pushing for performance, and committed to writing code that’s not just functional, but elegant and scalable.
 - 📫 Reach me at: **yogeshsharm26879@gmail.com**
 - 🌐 [LinkedIn](https://www.linkedin.com/in/yogeshsharma1010/)
 
